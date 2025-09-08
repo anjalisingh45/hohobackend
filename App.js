@@ -28,7 +28,9 @@ const corsOptions = {
   origin: [
     // 'http://localhost:3000',
     // 'http://localhost:5173',
-    'https://ho-ho-india-front-end.vercel.app',
+    'https://hohofrontend.vercel.app/',
+    // 'https://ho-ho-india-front-end.vercel.app',
+
     // 'https://hohoindiabackend.onrender.com'
   ],
   credentials: true,
